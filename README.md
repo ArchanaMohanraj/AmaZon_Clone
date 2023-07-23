@@ -1,4 +1,4 @@
-# Amazon-Clone-01-main
+# AmaZon_Clone
 cloned amazon online shopping website
 
 LIVE LINK:
