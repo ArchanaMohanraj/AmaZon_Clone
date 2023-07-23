@@ -2,4 +2,5 @@
 cloned amazon online shopping website
 
 LIVE LINK:
-https://archanamohanraj.github.io/Amazon-Clone-01-main/
+https://archanamohanraj.github.io/AmaZon_Clone/
+
